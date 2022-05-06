@@ -34,3 +34,6 @@ We take into account 5 areas when evaluating a solution. Each criteria is evalua
 
 ## Submit your solution	
 Create a public Github repository and push your solution including any documentation you feel necessary. Commit often - we would rather see a history of trial and error than a single monolithic push. When you're finished, please send us the URL to the repository. 
+
+## RESULT
+My end result conclusion will go here**
